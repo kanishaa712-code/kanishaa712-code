@@ -4,14 +4,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anisha;Full+Stack+Developer+%F0%9F%92%BB;Graphic+Designer+%F0%9F%8E%A8;UI%2FUX+Enthusiast+%E2%9C%A8;Dream+%E2%80%A2+Design+%E2%80%A2+Develop+%E2%80%A2+Deploy+%F0%9F%9A%80" alt="Typing SVG" />
 
-<h3>💖 Full Stack Developer | Graphic Designer | UI/UX Enthusiast</h3>
+<h1>Anisha 🎀✨</h1>
+<h3><i>@k_anisha</i></h3>
 
-<p>Passionate about building beautiful, responsive, and scalable web applications while creating modern and creative designs.</p>
+<p>💖 Full Stack Developer | 🎨 Graphic Designer | Dream • Design • Develop • Deploy 🚀</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building%20Dreams%20with%20Code-8B5CF6?style=for-the-badge&logoColor=white" />
-</p>
+<p>🦋 🌸 ☁️ 🎀 ✨</p>
+
+<a href="#"><img src="https://img.shields.io/badge/🎀_Open_to_Collaborate!-FFD1E3?style=for-the-badge&logoColor=C2185B&labelColor=FFD1E3&color=FFD1E3" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&pause=1500&color=C2185B&center=true&vCenter=true&width=500&lines=%F0%9F%8E%A7+code+%2B+music+%3D+happiness;%F0%9F%8E%B6+currently+vibing+to+lo-fi+beats+%F0%9F%8E%B6;%F0%9F%8E%B5+playlist+on+repeat+while+I+build" alt="music typing" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🎧_Now_Playing-Lofi_Beats-FCE4EC?style=for-the-badge&logoColor=C2185B&labelColor=FFD1E3&color=FCE4EC"/>
 
 </div>
 
@@ -123,8 +131,6 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-<a href="mailto:kanishaa712@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://anisha-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <a href="https://github.com/kanishaa712-code"><img src="https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
