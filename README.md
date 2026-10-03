@@ -12,6 +12,7 @@
 
 <p align="center">
 ✨&nbsp; Full Stack Developer<br/>
+✨&nbsp; Administrtive Assistant<br/>
 🎨&nbsp; Graphic Designer &amp; Creative UI Designer<br/>
 💻&nbsp; Passionate about Web Development<br/>
 🚀&nbsp; Building modern &amp; responsive websites<br/>
