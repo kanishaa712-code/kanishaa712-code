@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%"/>
+<img src="mybanner.png" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anisha;Full+Stack+Developer+%F0%9F%92%BB;Graphic+Designer+%F0%9F%8E%A8;UI%2FUX+Enthusiast+%E2%9C%A8;Dream+%E2%80%A2+Design+%E2%80%A2+Develop+%E2%80%A2+Deploy+%F0%9F%9A%80" alt="Typing SVG" />
 
