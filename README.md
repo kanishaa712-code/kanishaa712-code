@@ -25,7 +25,33 @@
 <img src="https://img.shields.io/badge/🎓_Lifelong_Learner-C77DFF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/🌙_Night_Owl-FF8FB3?style=for-the-badge&logoColor=white"/>
 </p>
+ ---
 
+## 🧠 Artificial Intelligence & Machine Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF69B4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-C77DFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Science-8B5CF6?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+Passionate about exploring Artificial Intelligence, Machine Learning, and intelligent systems. Building a strong foundation in Python, data analysis, statistics, and machine learning algorithms while working toward my goal of becoming an <b>AI Research Engineer</b>.
+</p>
+
+<p align="center">
+🐍 Python & Data Science<br/>
+📊 Data Analysis & Statistics<br/>
+🤖 Machine Learning Algorithms<br/>
+🧪 Experimentation & Problem Solving<br/>
+🚀 AI-Powered Projects
+</p>
+
+<p align="center">
+<i>Learn • Build • Experiment • Innovate</i>
+</p>
+
+---
 ---
 
 ## 🛠 Tech Stack
