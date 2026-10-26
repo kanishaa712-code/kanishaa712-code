@@ -25,7 +25,9 @@
 <img src="https://img.shields.io/badge/🚀_Problem_Solver-8B5CF6?style=for-the-badge&logoColor=white"/>
 </p>
 
-## 🧠 Artificial Intelligence & Machine Learning
+
+**Ambition**
+##  Artificial Intelligence & Machine Learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/Artificial_Intelligence-FF69B4?style=for-the-badge&logoColor=white"/>
