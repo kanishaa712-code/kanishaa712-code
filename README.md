@@ -118,10 +118,17 @@ Passionate about exploring Artificial Intelligence, Machine Learning, and intell
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishaa712-code&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=ff69b4" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kanishaa712-code&show_icons=true&commits_year=2026&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=ff69b4" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=kanishaa712-code&theme=radical&hide_border=false&border_radius=10&background=000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" width="48%"/>
 </div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishaa712-code&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=ff69b4" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishaa712-code&theme=react-dark&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff" width="48%"/>
+</div>
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishaa712-code&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=ff69b4" width="48%"/>
