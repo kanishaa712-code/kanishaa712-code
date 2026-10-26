@@ -131,11 +131,6 @@ Passionate about exploring Artificial Intelligence, Machine Learning, and intell
 </div>
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishaa712-code&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=ff69b4" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishaa712-code&theme=react-dark&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff" width="48%"/>
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
