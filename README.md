@@ -7,25 +7,23 @@
 
 
 ---
-
 ## 🌸 About Me
 
 <p align="center">
-✨&nbsp; Full Stack Developer<br/>
-✨&nbsp; Administrtive Assistant<br/>
-🎨&nbsp; Graphic Designer &amp; Creative UI Designer<br/>
-💻&nbsp; Passionate about Web Development<br/>
-🚀&nbsp; Building modern &amp; responsive websites<br/>
-📚&nbsp; Always learning new technologies<br/>
-🤝&nbsp; Open for collaboration
+👩‍💻&nbsp; Full Stack Developer passionate about building modern digital experiences<br/>
+🤖&nbsp; Exploring AI Engineering, Machine Learning &amp; intelligent systems<br/>
+🧠&nbsp; Learning Python, Data Science, Statistics &amp; ML algorithms<br/>
+🎨&nbsp; Graphic Designer with a creative UI/UX mindset<br/>
+🧪&nbsp; Interested in experimentation, problem-solving &amp; AI-powered solutions<br/>
+🚀&nbsp; Aspiring AI Research Engineer, combining software engineering with AI research<br/>
+📚&nbsp; Continuously learning, building &amp; improving through hands-on projects
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/💖_Creative_Coder-FF69B4?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🎓_Lifelong_Learner-C77DFF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🌙_Night_Owl-FF8FB3?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/💖_Creative_Thinker-FF69B4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖_AI_Explorer-C77DFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_Problem_Solver-8B5CF6?style=for-the-badge&logoColor=white"/>
 </p>
- ---
 
 ## 🧠 Artificial Intelligence & Machine Learning
 
